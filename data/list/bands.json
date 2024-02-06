@@ -19,6 +19,21 @@
             "name": "The Roscoes",
             "logo": "theroscoeslogo.png",
             "link": "the-roscoes"
+        },
+        {
+            "name": "The Station",
+            "logo": "thestationlogo.png",
+            "link": "the-station"
+        },
+        {
+            "name": "Night Fury",
+            "logo": "",
+            "link": "night-fury"
+        },
+        {
+            "name": "The Beatdown Kids",
+            "logo": "thebeatdownkidslogo.png",
+            "link": "the-beatdown-kids"
         }
     ]
 }
