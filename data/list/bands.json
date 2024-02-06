@@ -27,8 +27,13 @@
         },
         {
             "name": "Night Fury",
-            "logo": "",
+            "logo": "nightfurylogo.jpg",
             "link": "night-fury"
+        },
+        {
+            "name": "Noise on Neptune",
+            "logo": "noiseonneptunelogo.png",
+            "link": "noise-on-neptune"
         },
         {
             "name": "The Beatdown Kids",
