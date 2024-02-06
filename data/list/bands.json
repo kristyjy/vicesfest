@@ -36,6 +36,11 @@
             "link": "plague-dad"
         },
         {
+            "name": "Lover of Eve",
+            "logo": "loverofevelogo.png",
+            "link": "lover-of-eve"
+        },
+        {
             "name": "The Lazy Anarchists",
             "logo": "lazyanarchistslogo.png",
             "link": "lazy-anarchists"
@@ -46,9 +51,19 @@
             "link": "noise-on-neptune"
         },
         {
+            "name": "Dark Rain",
+            "logo": "darkrainlogo.png",
+            "link": "dark-rain"
+        },
+        {
             "name": "Battlemode",
             "logo": "battlemodelogo.png",
             "link": "battlemode"
+        },
+        {
+            "name": "Jonee Earthquake Band",
+            "logo": "joneeearthquakelogo.jpg",
+            "link": "jonee-earthquake-band"
         },
         {
             "name": "The Beatdown Kids",
