@@ -31,6 +31,16 @@
             "link": "night-fury"
         },
         {
+            "name": "Plague Dad",
+            "logo": "plaguedadlogo.png",
+            "link": "plague-dad"
+        },
+        {
+            "name": "The Lazy Anarchists",
+            "logo": "lazyanarchistslogo.png",
+            "link": "lazy-anarchists"
+        },
+        {
             "name": "Noise on Neptune",
             "logo": "noiseonneptunelogo.png",
             "link": "noise-on-neptune"
