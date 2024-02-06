@@ -36,6 +36,11 @@
             "link": "noise-on-neptune"
         },
         {
+            "name": "Battlemode",
+            "logo": "battlemodelogo.png",
+            "link": "battlemode"
+        },
+        {
             "name": "The Beatdown Kids",
             "logo": "thebeatdownkidslogo.png",
             "link": "the-beatdown-kids"
