@@ -1,7 +1,7 @@
 ---
-title: "Bands"
+title: "Schedule"
 draft: false
 type: "special"
 layout: "bands"
-slug: "bands"
+slug: "schedule"
 ---
