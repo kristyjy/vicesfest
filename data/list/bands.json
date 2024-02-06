@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "name": "Vices Inc",
+            "logo": "vicesinclogo.jpg",
+            "link": "vices-inc"
+        },
+        {
+            "name": "Messmaker",
+            "logo": "messmakerlogo.png",
+            "link": "messmaker"
+        },
+        {
+            "name": "Ragz to Stitchez",
+            "logo": "ragztostitchezlogo.png",
+            "link": "ragz-to-stitchez"
+        },
+        {
+            "name": "The Roscoes",
+            "logo": "theroscoeslogo.png",
+            "link": "the-roscoes"
+        }
+    ]
+}

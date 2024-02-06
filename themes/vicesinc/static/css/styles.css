@@ -49,6 +49,42 @@ a {
   width: 100%;
 }
 
+.menu-container {
+  border-bottom: 1px solid #000101;
+}
+
+.menu {
+  align-items: center;
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+.menu li {
+  margin-right: 16px;
+}
+
+.main-menu li {
+  font-weight: bold;
+  margin-right: 48px;
+  text-transform: uppercase;
+}
+
+.menu li:last-child {
+  margin-right: 0;
+}
+
+.menu a {
+  text-decoration: none;
+  transition: opacity .3s ease;
+}
+
+.menu a:hover {
+  opacity: .7;
+}
+
 /* GENERIC SECTIONS */
 
 .section-heading {
@@ -95,6 +131,50 @@ a {
 .button:hover {
   background-color: #000101;
   color: #f0f0f0; 
+}
+
+/* BANDS */
+
+.band-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.band {
+  padding: 0 16px 24px;
+  width: 282px;
+}
+
+.band-logo-wrap {
+  height: 250px;
+  display: flex;
+}
+
+.band-logo {
+  display: block;
+  margin: auto;
+  width: 100%;
+}
+
+.band-name {
+  margin: 16px 0 0;
+  text-align: center;
+}
+
+/* BAND PAGES */
+
+@media (min-width: 768px) {
+  .band-info-container {
+    display: flex;
+  }
+  .band-image-wrap {
+    margin-right: 24px;
+    width: 40%;
+  }
+  .band-info {
+    flex: 1;
+  }
 }
 
 /* FOOTER */

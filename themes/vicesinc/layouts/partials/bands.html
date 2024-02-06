@@ -1,0 +1,16 @@
+<section class="container">
+  <h2 class="section-heading">Bands</h2>
+  <div class="band-list">
+    {{ range $.Site.Data.list.bands.items }}
+      <div class="band">
+        <a class="band-logo-wrap" href="/bands/{{ .link }}">
+          <img
+            class="band-logo"
+            src="/images/logos/{{ .logo }}"
+            alt="" />
+        </a>
+        <h3 class="band-name"><a href="/bands/{{ .link }}">{{ .name }}</a></h3>
+      </div>
+    {{ end }}
+  </div>
+</section>

@@ -1,0 +1,17 @@
+{{ define "title" }}
+<!-- This will override the default value set in baseof.html; i.e., "{{.Site.Title}}" in the original example-->
+{{ .Title }} – {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+<h1 class="section-heading">{{ .Title }}</h1>
+<div class="container band-info-container">
+    {{ if (isset .Params "image") }}
+        <div class="band-image-wrap">
+            <img
+                src="/images/bands/{{ .Params.image }}"
+                alt="" />
+        </div>
+    {{ end }}
+    <div class="band-info">{{- .Content -}}</div>
+</div>
+{{ end }}
