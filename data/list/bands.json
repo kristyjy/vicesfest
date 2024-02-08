@@ -66,6 +66,11 @@
             "link": "battlemode"
         },
         {
+            "name": "If You're Down",
+            "logo": "ifyouredownlogo.jpg",
+            "link": "if-youre-down"
+        },
+        {
             "name": "Jonee Earthquake Band",
             "logo": "joneeearthquakelogo.jpg",
             "link": "jonee-earthquake-band"
