@@ -46,6 +46,11 @@
             "link": "lazy-anarchists"
         },
         {
+            "name": "The Carrot Flowers",
+            "logo": "carrotflowerslogo.png",
+            "link": "carrot-flowers"
+        },
+        {
             "name": "Noise on Neptune",
             "logo": "noiseonneptunelogo.png",
             "link": "noise-on-neptune"
