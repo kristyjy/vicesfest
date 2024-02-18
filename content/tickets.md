@@ -6,4 +6,6 @@ slug: "tickets"
 
 At the door: **$12**
 
-Online **$10** (link to buy coming soon!)
+Online **$10** [Buy Tickets Here](http://southie-heights.ticketleap.com/vices-fest-2024/)
+
+![Buy Vices Fest tickets now](/images/vicesfestqrcode.png)
