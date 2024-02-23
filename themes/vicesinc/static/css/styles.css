@@ -23,6 +23,10 @@ h3 {
   text-align: center;
 }
 
+.center img {
+  margin: 0 auto;
+}
+
 img {
   display: block;
   max-width: 100%;
