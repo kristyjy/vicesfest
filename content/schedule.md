@@ -34,6 +34,6 @@ slug: "schedule"
 
 **Messmaker**: 9:30 - 10
 
-**The Station**: 10:15 - 10:45
+**Ragz to Stitchez**: 10:15 - 10:45
 
-**Ragz to Stitchez**: 11 - 11:30
+**The Station**: 11 - 11:30
