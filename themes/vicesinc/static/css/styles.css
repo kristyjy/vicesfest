@@ -49,8 +49,15 @@ a {
 
 /* HEADER */
 
+.header {
+  background-color: #231e20;
+}
+
 .hero {
+  display: block;
   width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .menu-container {
