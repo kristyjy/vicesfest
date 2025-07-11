@@ -1,6 +1,6 @@
 ---
 title: "Battlemode"
-draft: false
+draft: true
 type: "special"
 layout: "band"
 slug: "battlemode"

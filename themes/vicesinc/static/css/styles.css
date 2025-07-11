@@ -50,7 +50,7 @@ a {
 /* HEADER */
 
 .header {
-  background-color: #231e20;
+  background-color: #1e191a;
 }
 
 .hero {
@@ -88,6 +88,7 @@ a {
 }
 
 .menu a {
+  color: #fff;
   text-decoration: none;
   transition: opacity .3s ease;
 }

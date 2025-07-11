@@ -1,6 +1,6 @@
 ---
 title: "The Roscoes"
-draft: false
+draft: true
 type: "special"
 layout: "band"
 slug: "the-roscoes"

@@ -1,6 +1,6 @@
 ---
 title: "Jonee Earthquake Band"
-draft: false
+draft: true
 type: "special"
 layout: "band"
 slug: "jonee-earthquake-band"

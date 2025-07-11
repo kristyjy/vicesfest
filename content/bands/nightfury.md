@@ -1,6 +1,6 @@
 ---
 title: "Night Fury"
-draft: false
+draft: true
 type: "special"
 layout: "band"
 slug: "night-fury"

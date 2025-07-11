@@ -1,6 +1,6 @@
 ---
 title: "Vices Inc"
-draft: false
+draft: true
 type: "special"
 layout: "band"
 slug: "vices-inc"

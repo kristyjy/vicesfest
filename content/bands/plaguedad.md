@@ -1,6 +1,6 @@
 ---
 title: "Plague Dad"
-draft: false
+draft: true
 type: "special"
 layout: "band"
 slug: "plague-dad"
