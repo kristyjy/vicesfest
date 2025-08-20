@@ -7,7 +7,7 @@
 }
 
 html {
-  background-color: #f0f0f0;
+  background-color: #fff;
   color: #000101;
   font-family: 'Raleway', sans-serif;
   scroll-behavior: smooth;
@@ -50,17 +50,18 @@ a {
 /* HEADER */
 
 .header {
-  background-color: #1e191a;
+  background-color: #45662e;
 }
 
 .hero {
   display: block;
   width: 100%;
-  max-width: 1000px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
-.menu-container {
+.menu-wrap {
+  background-color: #000101;
   border-bottom: 1px solid #000101;
 }
 
