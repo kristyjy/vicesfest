@@ -65,32 +65,44 @@ a {
 }
 
 .menu {
-  align-items: center;
-  display: flex;
   list-style: none;
-  justify-content: center;
   padding: 0;
   margin: 0;
+  text-align: center;
 }
 
-.menu li {
-  margin-right: 16px;
+@media (min-width: 500px) {
+  .menu {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
 }
 
 .main-menu li {
   font-weight: bold;
-  margin-right: 48px;
   text-transform: uppercase;
 }
 
-.menu li:last-child {
-  margin-right: 0;
-}
-
 .menu a {
+  display: block;
+  padding: 8px 4px;
   color: #fff;
   text-decoration: none;
   transition: opacity .3s ease;
+}
+
+@media (min-width: 500px) {
+  .menu a {
+    display: inline
+  }
+  .main-menu li {
+    margin-right: 40px;
+  }
+
+  .menu li:last-child {
+    margin-right: 0;
+  }
 }
 
 .menu a:hover {
