@@ -48,7 +48,7 @@ slug: "schedule"
 
 **3:15-3:45** - Mother Nimbus
 
-**4:00-4:30** - Mango Crush
+**4:00-4:30** - Mango Catch
 
 **4:45-5:15** - Alaska’s Angels
 
