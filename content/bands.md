@@ -32,7 +32,7 @@ slug: "bands"
 
 **Night Fury** - Glam Punk Rock - Pennsylvania 
 
-**Vices Inc** Alternative Rock - Maine
+**Vices Inc** - Alternative Rock - Maine
 
 **25% Vegan** - Indie Experimental Rock - New Hampshire 
 
