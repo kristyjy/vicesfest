@@ -60,7 +60,7 @@ slug: "bands"
 
 **Cryin Caleb** - Blues Punk - Maine
 
-**Decaying Continuum** - Death Metal - Maine
+**Lungworm** - Death Metal - Maine
 
 **Trading Tombstones** - Sludge Rock - New Hampshire
 

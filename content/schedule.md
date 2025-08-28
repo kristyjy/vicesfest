@@ -78,7 +78,7 @@ slug: "schedule"
 
 **1:45-2:15** - Cryin Caleb
 
-**2:30-3:00** - Decaying Continuum
+**2:30-3:00** - Lungworm
 
 **3:15-3:45** - Trading Tombstones
 
